@@ -7,7 +7,6 @@
 
 projet2 plusieurs
 
-![dr norman](https://github.com/theokingombo/projet/assets/140649217/e1aeb6aa-dacd-4d37-bec1-785db68598b7)
 
 ![sample](./image.jpg)
 
