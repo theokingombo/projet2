@@ -1,11 +1,10 @@
-<h1 align=center> **FRONTEND DEVELOPMENT TRAINING** </h1>
+<h1 align=center> **projet2 plusieurs** </h1>
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![dependencies Status](https://david-dm.org/dwyl/esta/status.svg)](https://david-dm.org/dwyl/esta)
 
 
-This is a list of different project designed during my frontend development training 
-
+projet2 plusieurs
 
 
 
@@ -25,7 +24,7 @@ This is a list of different project designed during my frontend development trai
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/tking/theokingombo.git
+$ git clone https://github.com/theokingombo/projet2.gitt
 ```
 
 > cd into the directory
