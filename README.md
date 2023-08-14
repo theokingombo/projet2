@@ -25,13 +25,13 @@ This is a list of different project designed during my frontend development trai
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/macbright/codeEdus-training.git
+$ git clone https://github.com/tking/theokingombo.git
 ```
 
 > cd into the directory
 
 ```sh
-$ cd codeEdus-training
+
 ```
 
 
@@ -39,7 +39,7 @@ $ cd codeEdus-training
 
 ## Maintainers 
 
-👤  **Bright Okike**
+👤  **Theo kingombo**
 
 - Github: [@tking](https://github.com/macbright)
 
